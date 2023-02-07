@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
+  <source>
+    <originFiles name="common.h" path="/home/t-homemoto/dockerized-xilinx-template/2022.1/ax7a200/hls_repo/blink/src/common.h"/>
+    <originFiles name="blink.h" path="/home/t-homemoto/dockerized-xilinx-template/2022.1/ax7a200/hls_repo/blink/src/blink.h"/>
+    <originFiles name="blink.cpp" path="/home/t-homemoto/dockerized-xilinx-template/2022.1/ax7a200/hls_repo/blink/src/blink.cpp"/>
+  </source>
+  <testbench>
+    <originFiles name="blink_tb.cpp" path="/home/t-homemoto/dockerized-xilinx-template/2022.1/ax7a200/hls_repo/blink/src/blink_tb.cpp"/>
+  </testbench>
+</autopilotfilemapping:AutoPilotFileMapping>

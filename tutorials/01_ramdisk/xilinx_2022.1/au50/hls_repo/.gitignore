@@ -1,0 +1,12 @@
+**/sim/
+**/syn/
+**/csim/
+**/impl
+*/*/.autopilot
+**/.debug
+**/*_data.json
+
+.auto*
+*.funcunit
+.vivado_hls_log_all.xml
+vivado_hls.log
